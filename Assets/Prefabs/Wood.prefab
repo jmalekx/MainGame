@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2530685403916645705}
   - component: {fileID: 6791081669978405139}
   - component: {fileID: 474776713323896449}
-  - component: {fileID: 7601225975506449629}
+  - component: {fileID: 6248878970483646026}
   m_Layer: 0
   m_Name: Wood
   m_TagString: Untagged
@@ -106,7 +106,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7601225975506449629
+--- !u!114 &6248878970483646026
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2806829959780113856}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b3c34064e7a3ce4c899e7df8842ffb7, type: 3}
+  m_Script: {fileID: 11500000, guid: 422d434e4bea1ef469da96706fd87fb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   collectibleItemData: {fileID: 11400000, guid: bbf05760390f52b4c960af477e5baf35, type: 2}
